@@ -1,0 +1,7 @@
+Name: Yaroslav
+Surename: Nahornyi
+Age: 25
+Future salary: 1500$
+Occupation: QA student
+Cat: Vasya
+Rat: Mysua
