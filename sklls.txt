@@ -1,0 +1,15 @@
+Hard Skills: 
+Creation Test documentation
+API Postman
+Fiddler
+Charles
+Dev tools
+http methods
+request and answer http
+Mobile testing
+GIT Bash and Git Hub
+SQL
+HTML and CSS
+Linux Terminal
+SCRUM
+Jmeter
