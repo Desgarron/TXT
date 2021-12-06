@@ -1,1 +1,5 @@
-
+Bug report
+ID: 1
+Title: The payment Visa don't work in the window of payment when make a order
+Expected result: The payment Visa is work
+Actual result": The payment Visa is not work
